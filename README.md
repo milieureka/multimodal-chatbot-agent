@@ -5,7 +5,7 @@ This project provides a chatbot interface for video content captioning and visua
 ## Demo
 
 <div align="center">
-    <a href='https://vision-cair.github.io/LongVU'><img src="https://github.com/milieureka/multimodal-chatbot-agent/blob/main/demo.gif" alt="Demo GIF" style="width: 100%; max-width: 800px;"></a>
+    <a href='https://vision-cair.github.io/LongVU'><img src="https://github.com/milieureka/multimodal-chatbot-agent/blob/main/demo-2.gif" alt="Demo GIF" style="width: 100%; max-width: 800px;"></a>
 </div>
 
 ## Product Diagram
