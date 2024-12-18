@@ -1,0 +1,11 @@
+gradio
+opencv-python
+numpy
+gradio_client
+torch
+iopath
+transformers
+langchain
+chromadb
+sentence-transformers
+huggingface-hub
